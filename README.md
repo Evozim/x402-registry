@@ -34,6 +34,10 @@ Include your public facilitator URL, supported/verify/settle URLs, supported net
 
 You can also [open a facilitator question](https://github.com/X402blockchains/x402-registry/issues/new?template=facilitator.yml). For the website’s pull-request listing flow, add the proposal PR link to your application.
 
+## Maintainer review queue
+
+See the [dated listing review queue](REVIEW_QUEUE.md) for open registry proposals, recent submissions and review follow-up guidance. The snapshot does not approve or publish a listing.
+
 ## What happens after review?
 
 **Proposal → checks and any corrections → approval → integration and publication.**
